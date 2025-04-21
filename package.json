@@ -1,0 +1,15 @@
+{
+    "name": "better-auth-2fa-repro",
+    "module": "index.ts",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "typecheck": "tsc --noEmit"
+    },
+    "peerDependencies": {
+        "typescript": "^5"
+    },
+    "dependencies": {
+        "better-auth": "1.2.7"
+    }
+}
